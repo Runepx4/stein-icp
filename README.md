@@ -9,9 +9,9 @@ This code provides a Python implementation of Stein ICP presented in the paper:
 
 The code requires an NVidia GPU supported by PyTorch 1.6.0 or newer. A `requirements.txt` file is provided which contains the PIP installable requirements.
 
-To facilitate the overall install a shell script `pip_install.sh` is provided. Adjusting the variables at the top of the file for the system's PyTorch and CUDA version allow for an easy installation of all required packages. 
+To facilitate the overall install a shell script `pip_install.sh` is provided.  
 
-Once the `pip_install.sh` file is adjusted all required packages can be installed by executing the script.
+All required packages can be installed by executing the `pip_install.sh` script.
 
 
 # Running
