@@ -2,7 +2,7 @@
 
 This code provides a Python implementation of Stein ICP presented in the paper:
 
-"Stein ICP for Uncertainty Estimation in Point Cloud Matching", *RAL, 2021*.
+Fahira Afzal Maken, Fabio Ramos, Lionel Ott, ["Stein ICP for Uncertainty Estimation in Point Cloud Matching"](https://arxiv.org/abs/2106.03287), *RAL, 2021*.
 
 
 # Installation
