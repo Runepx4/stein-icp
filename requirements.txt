@@ -4,4 +4,4 @@ numpy
 open3d
 seaborn
 torch
-pytorch3d==0.2.5
+#pytorch3d==0.2.5
